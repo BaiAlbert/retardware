@@ -1,5 +1,6 @@
 # Welcome to retardware
 
+
 ## What is retardware?
 
 retardware is developed and owned by [BaiAlbert](https://youtube.com/c/baialbert).
